@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Gary Walker 👋
 
-<!--
-**bitcryptic-gw/bitcryptic-gw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Four decades in technology — from co-founding **Fetch TV** (Australia's first commercial IPTV platform) to exploring the edges of crypto, DePIN, and self-hosted AI.
 
-Here are some ideas to get you started:
+Operating under the **BitCryptic™** brand out of Sydney, Australia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [bitcryptic.com](https://bitcryptic.com) · 𝕏 [@BitCrypticGW](https://x.com/BitCrypticGW)
+
+---
+
+## 🔧 What I'm working on
+
+- **NanoClaw on Unraid** — self-hosted AI agent stack (Telegram bot, local LLM via Ollama/LiteLLM, Tailscale integration)
+- **BitCryptic Compute** — crypto-native AI inference marketplace (in development)
+- **DePIN nodes** — Acurast, Helium/Luna firmware, Pi Network
+- **Self-hosted infrastructure** — Unraid, Docker, Caddy, Tailscale, Grafana
+
+## 📦 Unraid Community Templates
+
+- [NanoClaw](https://github.com/bitcryptic-gw/unraid-nanoclaw) — Lightweight secure AI agent for Unraid
+- [Pi Network Node](https://github.com/bitcryptic-gw/unraid-pi-network-node) — Pi Network node Docker template
+
+## 🛠️ Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat&logo=unraid&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+---
+
+<a href="https://buymeacoffee.com/bitcryptic">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+</a>
