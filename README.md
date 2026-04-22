@@ -17,8 +17,11 @@ Operating under the **BitCryptic™** brand out of Sydney, Australia.
 
 ## 📦 Unraid Community Templates
 
+All templates are available in one repository: [unraid-templates](https://github.com/bitcryptic-gw/unraid-templates)
+
 - [NanoClaw](https://github.com/bitcryptic-gw/unraid-nanoclaw) — Lightweight secure AI agent for Unraid
 - [Pi Network Node](https://github.com/bitcryptic-gw/unraid-pi-network-node) — Pi Network node Docker template
+- [ckpool-solo](https://github.com/bitcryptic-gw/unraid-ckpool-solo) — Self-hosted Bitcoin solo mining stratum server
 
 ## 🛠️ Stack
 
