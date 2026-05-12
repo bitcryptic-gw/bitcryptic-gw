@@ -12,7 +12,7 @@ Operating under the **BitCryptic™** brand out of Sydney, Australia.
 
 - **NanoClaw on Unraid** — self-hosted AI agent stack (Telegram bot, local LLM via Ollama/LiteLLM, Tailscale integration)
 - **BitCryptic Compute** — crypto-native AI inference marketplace (in development)
-- **DePIN nodes** — Acurast, Helium/Luna firmware, Pi Network
+- **DePIN nodes** — Acurast, Helium/SenseCap firmware, Pi Network
 - **Self-hosted infrastructure** — Unraid, Docker, Caddy, Tailscale, Grafana
 
 ## 📦 Unraid Community Templates
