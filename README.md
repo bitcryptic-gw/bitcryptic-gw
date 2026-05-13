@@ -10,7 +10,7 @@ Operating under the **BitCryptic™** brand out of Sydney, Australia.
 
 ## 🔧 What I'm working on
 
-- **NanoClaw on Unraid** — self-hosted AI agent stack (Telegram bot, local LLM via Ollama/LiteLLM, Tailscale integration)
+- **NanoClaw on Unraid** — self-hosted AI agent stack (Matrix E2EE primary, local LLM via Ollama/LiteLLM, Tailscale integration)
 - **BitCryptic Compute** — crypto-native AI inference marketplace (in development)
 - **DePIN nodes** — Acurast, Helium/SenseCap firmware, Pi Network
 - **Self-hosted infrastructure** — Unraid, Docker, Caddy, Tailscale, Grafana
@@ -22,6 +22,7 @@ All templates are available in one repository: [unraid-templates](https://github
 - [NanoClaw](https://github.com/bitcryptic-gw/unraid-nanoclaw) — Lightweight secure AI agent for Unraid
 - [Pi Network Node](https://github.com/bitcryptic-gw/unraid-pi-network-node) — Pi Network node Docker template
 - [ckpool-solo](https://github.com/bitcryptic-gw/unraid-ckpool-solo) — Self-hosted Bitcoin solo mining stratum server
+- [Paperclip](https://github.com/bitcryptic-gw/paperclip) - Open source AI coding agent platform
 
 ## 🛠️ Stack
 
