@@ -22,7 +22,7 @@ All templates are available in one repository: [unraid-templates](https://github
 - [NanoClaw](https://github.com/bitcryptic-gw/unraid-nanoclaw) — Lightweight secure AI agent for Unraid
 - [Pi Network Node](https://github.com/bitcryptic-gw/unraid-pi-network-node) — Pi Network node Docker template
 - [ckpool-solo](https://github.com/bitcryptic-gw/unraid-ckpool-solo) — Self-hosted Bitcoin solo mining stratum server
-- [Paperclip](https://github.com/bitcryptic-gw/paperclip) -- Open source AI coding agent platform
+- [Paperclip](https://github.com/bitcryptic-gw/paperclip) — Open source AI coding agent platform
 
 ## 🛠️ Stack
 
