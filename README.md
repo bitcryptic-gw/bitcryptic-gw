@@ -10,6 +10,7 @@ Operating under the **BitCryptic™** brand out of Sydney, Australia.
 
 ## 🔧 What I'm working on
 
+- **MDF (Markdown First)** — open architecture proposal: markdown as source of truth, native agent serving via content negotiation, price-as-access-policy via x402/L402
 - **NanoClaw on Unraid** — self-hosted AI agent stack (Matrix E2EE primary, local LLM via Ollama/LiteLLM, Tailscale integration)
 - **BitCryptic Compute** — crypto-native AI inference marketplace (in development)
 - **DePIN nodes** — Acurast, Helium/SenseCap firmware, Pi Network
@@ -36,4 +37,7 @@ All templates are available in one repository: [unraid-templates](https://github
 
 <a href="https://buymeacoffee.com/bitcryptic">
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+</a>
+<a href="https://zbd.gg/BitCryptic">
+  <img src="https://img.shields.io/badge/⚡-Lightning%20Tip-yellow?style=for-the-badge">
 </a>
