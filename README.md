@@ -11,7 +11,6 @@ Operating under the **BitCryptic™** brand out of Sydney, Australia.
 ## 🔧 What I'm working on
 
 - **MDF (Markdown First)** — open architecture proposal: markdown as source of truth, native agent serving via content negotiation, price-as-access-policy via x402/L402
-- **NanoClaw on Unraid** — self-hosted AI agent stack (Matrix E2EE primary, local LLM via Ollama/LiteLLM, Tailscale integration)
 - **BitCryptic Compute** — crypto-native AI inference marketplace (in development)
 - **DePIN nodes** — Acurast, Helium/SenseCap firmware, Pi Network
 - **Self-hosted infrastructure** — Unraid, Docker, Caddy, Tailscale, Grafana
