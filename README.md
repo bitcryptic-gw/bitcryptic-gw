@@ -10,19 +10,17 @@ Operating under the **BitCryptic™** brand out of Sydney, Australia.
 
 ## 🔧 What I'm working on
 
-- **MDF (Markdown First)** — open architecture proposal: markdown as source of truth, native agent serving via content negotiation, price-as-access-policy via x402/L402
-- **BitCryptic Compute** — crypto-native AI inference marketplace (in development)
-- **DePIN nodes** — Acurast, Helium/SenseCap firmware, Pi Network
+- **MDF (Markdown First)** — open architecture proposal: markdown as source of truth, native agent serving via content negotiation, price-as-access-policy via x402/L402 ([repo](https://github.com/bitcryptic-gw/mdf))
+- **BitTug** — open-source, hardware-agnostic DePIN gateway platform for Raspberry Pi: Helium, Wingbits ADS-B, Anyone Protocol and more ([repo](https://github.com/bitcryptic-gw/bittug))
+- **DePIN nodes** — Acurast, Pi Network
 - **Self-hosted infrastructure** — Unraid, Docker, Caddy, Tailscale, Grafana
 
 ## 📦 Unraid Community Templates
 
 All templates are available in one repository: [unraid-templates](https://github.com/bitcryptic-gw/unraid-templates)
 
-- [NanoClaw](https://github.com/bitcryptic-gw/unraid-nanoclaw) — Lightweight secure AI agent for Unraid
 - [Pi Network Node](https://github.com/bitcryptic-gw/unraid-pi-network-node) — Pi Network node Docker template
 - [ckpool-solo](https://github.com/bitcryptic-gw/unraid-ckpool-solo) — Self-hosted Bitcoin solo mining stratum server
-- [Paperclip](https://github.com/bitcryptic-gw/paperclip) — Open source AI coding agent platform
 
 ## 🛠️ Stack
 
