@@ -11,7 +11,7 @@ Operating under the **BitCryptic™** brand out of Sydney, Australia.
 ## 🔧 What I'm working on
 
 - **MDF (Markdown First)** — open architecture proposal: markdown as source of truth, native agent serving via content negotiation, price-as-access-policy via x402/L402 ([repo](https://github.com/bitcryptic-gw/mdf))
-- **BitTug** — open-source, hardware-agnostic DePIN gateway platform for Raspberry Pi: Helium, Wingbits ADS-B, Anyone Protocol and more ([repo](https://github.com/bitcryptic-gw/bittug))
+- **BitTug** — open-source, hardware-agnostic DePIN gateway platform for Raspberry Pi: Helium, Wingbits ADS-B, ANyONe Protocol and more ([repo](https://github.com/bitcryptic-gw/bittug))
 - **DePIN nodes** — Acurast, Pi Network
 - **Self-hosted infrastructure** — Unraid, Docker, Caddy, Tailscale, Grafana
 
